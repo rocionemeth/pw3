@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\views\\animales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\controllers\\animalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\views\\animales\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\views\\animales\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D62F31-C341-483D-B113-1FB9E01DCF26}|Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase3.mvc.servicio\\clase3.mvc.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21D62F31-C341-483D-B113-1FB9E01DCF26}|Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj|solutionrelative:clase3.mvc.servicio\\clase3.mvc.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB66CFE-3B41-4E84-8B3C-C1D4639C7BCA}|Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase3.mvc.entidades\\clase3.mvc.entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EB66CFE-3B41-4E84-8B3C-C1D4639C7BCA}|Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj|solutionrelative:clase3.mvc.entidades\\clase3.mvc.entidades.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase.mvc.webapp\\controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3039F76F-CB23-49C3-8F26-6CC157357B51}|Clase.MVC.WebApp\\Clase.MVC.WebApp.csproj|solutionrelative:clase.mvc.webapp\\controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D62F31-C341-483D-B113-1FB9E01DCF26}|Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase3.mvc.servicio\\animalservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D62F31-C341-483D-B113-1FB9E01DCF26}|Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj|solutionrelative:clase3.mvc.servicio\\animalservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB66CFE-3B41-4E84-8B3C-C1D4639C7BCA}|Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj|c:\\users\\rocio\\source\\repos\\clase.mvc\\clase3.mvc.entidades\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB66CFE-3B41-4E84-8B3C-C1D4639C7BCA}|Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj|solutionrelative:clase3.mvc.entidades\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwBwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T21:29:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T21:25:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T21:25:15.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Agregar.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Animales\\Agregar.cshtml",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Views\\Animales\\Agregar.cshtml",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Animales\\Agregar.cshtml",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Views\\Animales\\Agregar.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T21:07:15.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Controllers\\api\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Controllers\\api\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Controllers\\api\\ValuesController.cs",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Controllers\\api\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:56:14.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:43:07.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Animales\\Index.cshtml",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Views\\Animales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Views\\Animales\\Index.cshtml",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Views\\Animales\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T19:53:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clase3.MVC.Entidades",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj",
+              "RelativeDocumentMoniker": "Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj",
+              "RelativeToolTip": "Clase3.MVC.Entidades\\Clase3.MVC.Entidades.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T21:23:13.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clase3.MVC.Servicio",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj",
+              "RelativeDocumentMoniker": "Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj",
+              "RelativeToolTip": "Clase3.MVC.Servicio\\Clase3.MVC.Servicio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-01T21:23:17.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalesController.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Controllers\\AnimalesController.cs",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Controllers\\AnimalesController.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Controllers\\AnimalesController.cs",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Controllers\\AnimalesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:49:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Clase.MVC.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase.MVC.WebApp\\Program.cs",
+              "RelativeToolTip": "Clase.MVC.WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:49:51.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimalServicio.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Servicio\\AnimalServicio.cs",
+              "RelativeDocumentMoniker": "Clase3.MVC.Servicio\\AnimalServicio.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Servicio\\AnimalServicio.cs",
+              "RelativeToolTip": "Clase3.MVC.Servicio\\AnimalServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:05:01.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Entidades\\Animal.cs",
+              "RelativeDocumentMoniker": "Clase3.MVC.Entidades\\Animal.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\Clase.MVC\\Clase3.MVC.Entidades\\Animal.cs",
+              "RelativeToolTip": "Clase3.MVC.Entidades\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:57:20.316Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

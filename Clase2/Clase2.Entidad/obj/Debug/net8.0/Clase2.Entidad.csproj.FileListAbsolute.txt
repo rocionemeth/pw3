@@ -1,0 +1,11 @@
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\bin\Debug\net8.0\Clase2.Entidad.deps.json
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\bin\Debug\net8.0\Clase2.Entidad.dll
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\bin\Debug\net8.0\Clase2.Entidad.pdb
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\Clase2.Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\Clase2.Entidad.AssemblyInfoInputs.cache
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\Clase2.Entidad.AssemblyInfo.cs
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\Clase2.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\Clase2.Entidad.dll
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\refint\Clase2.Entidad.dll
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\Clase2.Entidad.pdb
+C:\Users\rocio\source\repos\Clase2\Clase2.Entidad\obj\Debug\net8.0\ref\Clase2.Entidad.dll
