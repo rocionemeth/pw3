@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clase3.MVC.Servicio/1.0.0": {
+        "dependencies": {
+          "Clase3.MVC.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "Clase3.MVC.Servicio.dll": {}
+        }
+      },
+      "Clase3.MVC.Entidades/1.0.0": {
+        "runtime": {
+          "Clase3.MVC.Entidades.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clase3.MVC.Servicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Clase3.MVC.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

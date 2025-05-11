@@ -1,0 +1,15 @@
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\bin\Debug\net8.0\Clase3.MVC.Servicio.deps.json
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\bin\Debug\net8.0\Clase3.MVC.Servicio.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\bin\Debug\net8.0\Clase3.MVC.Servicio.pdb
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\bin\Debug\net8.0\Clase3.MVC.Entidades.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\bin\Debug\net8.0\Clase3.MVC.Entidades.pdb
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.csproj.AssemblyReference.cache
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.AssemblyInfoInputs.cache
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.AssemblyInfo.cs
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.csproj.CoreCompileInputs.cache
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.M.CB13ACCA.Up2Date
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\refint\Clase3.MVC.Servicio.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\Clase3.MVC.Servicio.pdb
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Servicio\obj\Debug\net8.0\ref\Clase3.MVC.Servicio.dll

@@ -1,0 +1,11 @@
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\bin\Debug\net8.0\Clase3.MVC.Entidades.deps.json
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\bin\Debug\net8.0\Clase3.MVC.Entidades.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\bin\Debug\net8.0\Clase3.MVC.Entidades.pdb
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\Clase3.MVC.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\Clase3.MVC.Entidades.AssemblyInfoInputs.cache
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\Clase3.MVC.Entidades.AssemblyInfo.cs
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\Clase3.MVC.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\Clase3.MVC.Entidades.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\refint\Clase3.MVC.Entidades.dll
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\Clase3.MVC.Entidades.pdb
+C:\Users\rocio\source\repos\Clase.MVC\Clase3.MVC.Entidades\obj\Debug\net8.0\ref\Clase3.MVC.Entidades.dll

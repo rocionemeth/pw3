@@ -1,0 +1,23 @@
+﻿@model List<Clase3.MVC.Entidades.Animal>
+@{
+}
+
+<h1>Lista de Animales </h1>
+
+<Table class="table">
+	<thead>
+		<th>Descripcion</th>
+		<th>Precio</th>
+		<th>Imagen</th>
+	</thead>
+	<tbody>
+		@foreach (var animal in Model)
+		{
+			<tr>
+				<td>@animal.Descripcion</td>
+				<td>@animal.Precio</td>
+				<td><img src="@animal.Imagen" alt="Imagen de @animal.Descripcion" style="width: 100px; height:100px;" /></td>
+			</tr>
+		}
+	</tbody>
+</Table>
