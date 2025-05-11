@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Parcial1.Barcos.Entidades\Parcial1.Barcos.Entidades.csproj" />
+    <ProjectReference Include="..\Parcial1.Barcos.Logica\Parcial1.Barcos.Logica.csproj" />
+  </ItemGroup>
+
+</Project>
