@@ -1,0 +1,37 @@
+﻿﻿@using Parcial1.Barcos.Entidades
+@model List<Barco>
+
+@{
+    ViewData["Title"] = "Listados de Barco";
+}
+
+<h2>Listados de Barco</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <span class="mensajeExito">@TempData["Mensaje"]</span>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#IdBarco</th>
+            <th>Nombre</th>
+            <th>Antiguedad</th>
+            <th>Tripulacion Maxima</th>
+            <th>Tasa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var barco in Model)
+        {
+            <tr>
+                <td>@barco.IdBarco</td>
+                <td>@barco.NombreBarco</td>
+                <td>@barco.Antiguedad</td>
+                <td>@barco.TripulacionMaxima</td>
+                <td>@barco.Tasa</td>
+            </tr>
+        }
+    </tbody>
+</table>

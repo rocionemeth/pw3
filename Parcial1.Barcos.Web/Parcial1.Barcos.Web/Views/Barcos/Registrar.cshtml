@@ -1,0 +1,34 @@
+﻿@using Parcial1.Barcos.Entidades
+@model Barco
+
+@{
+	ViewData["Title"] = "Registrar Barco";
+}
+
+<h2>Registrar Barco</h2>
+
+<form action="/Barcos/Registrar" method="post">
+    <div class="form-group">
+        @Html.LabelFor(model => model.NombreBarco)
+        @Html.TextBoxFor(model => model.NombreBarco, new { @class = "form-control", type = "text" })
+        @Html.ValidationMessageFor(model => model.NombreBarco, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Antiguedad)
+        @Html.TextBoxFor(model => model.Antiguedad, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.Antiguedad, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TripulacionMaxima)
+        @Html.TextBoxFor(model => model.TripulacionMaxima, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.TripulacionMaxima, "", new { @class = "text-danger" })
+    </div>
+
+    <input type="submit" value="Registrar" />
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
