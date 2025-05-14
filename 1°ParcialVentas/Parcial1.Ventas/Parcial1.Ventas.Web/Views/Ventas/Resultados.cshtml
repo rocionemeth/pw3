@@ -1,0 +1,37 @@
+﻿@using Parcial1.Ventas.Entidades
+@model List<Venta>
+
+@{
+    ViewData["Title"] = "Resultados de Venta";
+}
+
+<h2>Resultados de Venta</h2>
+
+@if (TempData["Mensaje"] != null)
+{
+    <span class="mensajeExito">@TempData["Mensaje"]</span>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>#IdVenta</th>
+            <th>Cliente</th>
+            <th>Cantidad Vendida</th>
+            <th>Precio Unitario</th>
+            <th>Total Venta</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td>@venta.IdVenta</td>
+                <td>@venta.Cliente</td>
+                <td>@venta.CantidadVendida</td>
+                <td>@venta.PrecioUnitario</td>
+                <td>@venta.TotalVenta</td>
+            </tr>
+        }
+    </tbody>
+</table>

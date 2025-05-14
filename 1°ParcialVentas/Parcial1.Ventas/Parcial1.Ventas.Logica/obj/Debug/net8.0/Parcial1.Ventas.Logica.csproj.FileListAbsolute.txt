@@ -1,0 +1,16 @@
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.csproj.AssemblyReference.cache
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.AssemblyInfoInputs.cache
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.AssemblyInfo.cs
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.csproj.CoreCompileInputs.cache
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.sourcelink.json
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\bin\Debug\net8.0\Parcial1.Ventas.Logica.deps.json
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\bin\Debug\net8.0\Parcial1.Ventas.Logica.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\bin\Debug\net8.0\Parcial1.Ventas.Logica.pdb
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\bin\Debug\net8.0\Parcial1.Ventas.Entidades.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\bin\Debug\net8.0\Parcial1.Ventas.Entidades.pdb
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.60A84D2B.Up2Date
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\refint\Parcial1.Ventas.Logica.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\Parcial1.Ventas.Logica.pdb
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Logica\obj\Debug\net8.0\ref\Parcial1.Ventas.Logica.dll

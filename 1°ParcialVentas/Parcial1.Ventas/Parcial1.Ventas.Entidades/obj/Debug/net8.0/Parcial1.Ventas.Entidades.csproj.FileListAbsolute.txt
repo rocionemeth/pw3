@@ -1,0 +1,12 @@
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\bin\Debug\net8.0\Parcial1.Ventas.Entidades.deps.json
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\bin\Debug\net8.0\Parcial1.Ventas.Entidades.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\bin\Debug\net8.0\Parcial1.Ventas.Entidades.pdb
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.AssemblyInfoInputs.cache
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.AssemblyInfo.cs
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.sourcelink.json
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\refint\Parcial1.Ventas.Entidades.dll
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\Parcial1.Ventas.Entidades.pdb
+C:\Users\rocio\source\repos\pw3\1°ParcialVentas\Parcial1.Ventas\Parcial1.Ventas.Entidades\obj\Debug\net8.0\ref\Parcial1.Ventas.Entidades.dll
