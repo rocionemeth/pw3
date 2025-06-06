@@ -1,0 +1,41 @@
+﻿@model MundialClubes.Entidades.EF.JugadorEstrella
+
+@{
+    ViewData["Title"] = "Agregar Jugador Estrella";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Agregar Jugador Estrella</h1>
+<form asp-action="Agregar" method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Edad"></label>
+        <input asp-for="Edad" class="form-control" type="number" />
+        <span asp-validation-for="Edad" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="FotoUrl"></label>
+        <input asp-for="FotoUrl" class="form-control" />
+        <span asp-validation-for="FotoUrl" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Descripcion"></label>
+        <textarea asp-for="Descripcion" class="form-control"></textarea>
+        <span asp-validation-for="Descripcion" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+    <button type="submit" class="btn btn-primary">Agregar</button>
+
+    <a href="/Lista" class="btn btn-secondary">Volver a la lista</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

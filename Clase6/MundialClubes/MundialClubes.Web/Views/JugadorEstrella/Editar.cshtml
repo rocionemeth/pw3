@@ -1,0 +1,40 @@
+﻿@model MundialClubes.Entidades.EF.JugadorEstrella   
+
+@{
+    ViewData["Title"] = "Editar Jugador Estrella";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Editar Jugador Estrella</h1>
+<form asp-action="Editar" method="post" enctype="multipart/form-data">
+   <input type="hidden" asp-for="IdJugadorEstrella"/>
+    <div class="mb-3">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+        <span asp-validation-for="Nombre" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Edad"></label>
+        <input asp-for="Edad" class="form-control" type="number" />
+        <span asp-validation-for="Edad" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="FotoUrl">Foto</label>
+        <input asp-for="FotoUrl" class="form-control" />
+        <span asp-validation-for="FotoUrl" class="text-danger"></span>
+        <div class="mt-2">
+            <img src="@Model.FotoUrl" alt="@Model.Nombre" style="height: 100px;"/>
+        </div>
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Descripcion"></label>
+        <textarea asp-for="Descripcion" class="form-control"></textarea>
+        <span asp-validation-for="Descripcion" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+    <button type="submit" class="btn btn-primary">Guardar</button>
+
+    <a asp-action="Lista" class="btn btn-secondary">Cancelar</a>
+    </div>
+</form>
