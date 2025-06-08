@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\views\\jugadorestrella\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\views\\jugadorestrella\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\views\\jugadorestrella\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\views\\jugadorestrella\\agregar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\views\\jugadorestrella\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\views\\jugadorestrella\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\controllers\\jugadorestrellacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\controllers\\jugadorestrellacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{934CF8BB-5C0F-47FB-9D68-5BB70F659BAA}|MundialClubes.Logica\\MundialClubes.Logica.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.logica\\jugadorestrellalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{934CF8BB-5C0F-47FB-9D68-5BB70F659BAA}|MundialClubes.Logica\\MundialClubes.Logica.csproj|solutionrelative:mundialclubes.logica\\jugadorestrellalogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F9D4222E-E783-4C6D-A17B-E88F92A92D7B}|MundialClubes.Web\\MundialClubes.Web.csproj|solutionrelative:mundialclubes.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C17413F7-8CCF-4240-B095-7E4655679908}|MundialClubes.Entidades\\MundialClubes.Entidades.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.entidades\\ef\\mundialclubescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17413F7-8CCF-4240-B095-7E4655679908}|MundialClubes.Entidades\\MundialClubes.Entidades.csproj|solutionrelative:mundialclubes.entidades\\ef\\mundialclubescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C17413F7-8CCF-4240-B095-7E4655679908}|MundialClubes.Entidades\\MundialClubes.Entidades.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.entidades\\ef\\jugadorestrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C17413F7-8CCF-4240-B095-7E4655679908}|MundialClubes.Entidades\\MundialClubes.Entidades.csproj|solutionrelative:mundialclubes.entidades\\ef\\jugadorestrella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17413F7-8CCF-4240-B095-7E4655679908}|MundialClubes.Entidades\\MundialClubes.Entidades.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.entidades\\ef\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C17413F7-8CCF-4240-B095-7E4655679908}|MundialClubes.Entidades\\MundialClubes.Entidades.csproj|solutionrelative:mundialclubes.entidades\\ef\\club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{934CF8BB-5C0F-47FB-9D68-5BB70F659BAA}|MundialClubes.Logica\\MundialClubes.Logica.csproj|c:\\users\\rocio\\source\\repos\\pw3\\clase6\\mundialclubes\\mundialclubes.logica\\clublogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{934CF8BB-5C0F-47FB-9D68-5BB70F659BAA}|MundialClubes.Logica\\MundialClubes.Logica.csproj|solutionrelative:mundialclubes.logica\\clublogica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Agregar.cshtml",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\JugadorEstrella\\Agregar.cshtml",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Views\\JugadorEstrella\\Agregar.cshtml",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\JugadorEstrella\\Agregar.cshtml",
-              "RelativeToolTip": "MundialClubes.Web\\Views\\JugadorEstrella\\Agregar.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T19:55:33.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Editar.cshtml",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\JugadorEstrella\\Editar.cshtml",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Views\\JugadorEstrella\\Editar.cshtml",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\JugadorEstrella\\Editar.cshtml",
-              "RelativeToolTip": "MundialClubes.Web\\Views\\JugadorEstrella\\Editar.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-06T19:43:00.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "JugadorEstrellaLogica.cs",
               "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Logica\\JugadorEstrellaLogica.cs",
               "RelativeDocumentMoniker": "MundialClubes.Logica\\JugadorEstrellaLogica.cs",
               "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Logica\\JugadorEstrellaLogica.cs",
               "RelativeToolTip": "MundialClubes.Logica\\JugadorEstrellaLogica.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:32:50.128Z",
+              "WhenOpened": "2025-06-08T02:32:08.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "JugadorEstrellaController.cs",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Controllers\\JugadorEstrellaController.cs",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Controllers\\JugadorEstrellaController.cs",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Controllers\\JugadorEstrellaController.cs",
-              "RelativeToolTip": "MundialClubes.Web\\Controllers\\JugadorEstrellaController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAC8AAAAgAAAAAAAAAA==",
+              "Title": "Club.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Entidades\\EF\\Club.cs",
+              "RelativeDocumentMoniker": "MundialClubes.Entidades\\EF\\Club.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Entidades\\EF\\Club.cs",
+              "RelativeToolTip": "MundialClubes.Entidades\\EF\\Club.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T03:30:38.798Z",
+              "WhenOpened": "2025-06-08T02:34:36.328Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Program.cs",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Program.cs",
-              "RelativeToolTip": "MundialClubes.Web\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:04:24.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MundialClubes.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T05:08:32.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\JugadorEstrella\\Lista.cshtml",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Views\\JugadorEstrella\\Lista.cshtml",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\JugadorEstrella\\Lista.cshtml",
-              "RelativeToolTip": "MundialClubes.Web\\Views\\JugadorEstrella\\Lista.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T04:47:55.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "JugadorEstrella.cs",
               "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Entidades\\EF\\JugadorEstrella.cs",
               "RelativeDocumentMoniker": "MundialClubes.Entidades\\EF\\JugadorEstrella.cs",
               "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Entidades\\EF\\JugadorEstrella.cs",
               "RelativeToolTip": "MundialClubes.Entidades\\EF\\JugadorEstrella.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T05:27:33.563Z"
+              "WhenOpened": "2025-06-08T02:34:26.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "MundialClubes.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "MundialClubes.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T05:30:06.632Z"
+              "DocumentIndex": 1,
+              "Title": "MundialClubesContext.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Entidades\\EF\\MundialClubesContext.cs",
+              "RelativeDocumentMoniker": "MundialClubes.Entidades\\EF\\MundialClubesContext.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Entidades\\EF\\MundialClubesContext.cs",
+              "RelativeToolTip": "MundialClubes.Entidades\\EF\\MundialClubesContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T02:34:24.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClubLogica.cs",
+              "DocumentMoniker": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Logica\\ClubLogica.cs",
+              "RelativeDocumentMoniker": "MundialClubes.Logica\\ClubLogica.cs",
+              "ToolTip": "C:\\Users\\rocio\\source\\repos\\pw3\\Clase6\\MundialClubes\\MundialClubes.Logica\\ClubLogica.cs",
+              "RelativeToolTip": "MundialClubes.Logica\\ClubLogica.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T04:17:20.799Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,6 +15,8 @@ public partial class MundialClubesContext : DbContext
     {
     }
 
+    public virtual DbSet<Club> Clubs { get; set; }
+
     public virtual DbSet<JugadorEstrella> JugadorEstrellas { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -23,22 +25,41 @@ public partial class MundialClubesContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Club>(entity =>
+        {
+            entity.HasKey(e => e.IdClub);
+
+            entity.ToTable("Club");
+
+            entity.Property(e => e.Nombre)
+                .HasMaxLength(50)
+                .IsRequired();
+
+            // Relación uno a uno con JugadorEstrella
+            entity.HasOne(c => c.JugadorEstrella)
+                .WithOne(j => j.Club)
+                .HasForeignKey<Club>(c => c.IdJugadorEstrella)
+                .OnDelete(DeleteBehavior.Restrict); // O DeleteBehavior.SetNull si quieres
+        });
+
         modelBuilder.Entity<JugadorEstrella>(entity =>
         {
             entity.HasKey(e => e.IdJugadorEstrella);
 
             entity.ToTable("JugadorEstrella");
 
-            entity.Property(e => e.Descripcion)
-                .HasMaxLength(100)
-                .IsFixedLength();
+            entity.Property(e => e.Nombre)
+                .HasMaxLength(50)
+                .IsRequired();
+
             entity.Property(e => e.FotoUrl)
                 .HasMaxLength(500)
-                .IsFixedLength();
-            entity.Property(e => e.Nombre)
-                .HasMaxLength(20)
-                .IsFixedLength();
+                .IsRequired();
+
+            entity.Property(e => e.Descripcion)
+                .HasMaxLength(100);
         });
+
 
         OnModelCreatingPartial(modelBuilder);
     }

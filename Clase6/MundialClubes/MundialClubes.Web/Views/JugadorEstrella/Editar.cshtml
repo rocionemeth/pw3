@@ -32,6 +32,17 @@
         <textarea asp-for="Descripcion" class="form-control"></textarea>
         <span asp-validation-for="Descripcion" class="text-danger"></span>
     </div>
+
+     @* Combo de clubs *@
+    <div class="mb-3">
+        <label>Club: </label>
+        <select name="IdClub" class="form-select" asp-items="ViewBag.Clubs">
+            <option value="">-- Sin club --</option>
+        </select>
+        @* Input para nuevo club *@
+        <input type="text" name="NuevoClub" class="form-control" placeholder="Nuevo Club (opcional)" />
+    </div>
+
     <div class="mb-3">
     <button type="submit" class="btn btn-primary">Guardar</button>
 
